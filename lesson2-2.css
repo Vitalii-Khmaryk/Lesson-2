@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+}
+#text{
+    background-color: cadetblue;
+    text-align: end;
+    color: white;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    
+}
